@@ -5,7 +5,7 @@ title STS2 Mod Sync (null-1337)
 :: --- CONFIGURATION ---
 set "REPO_ZIP=https://github.com/null-1337/sts2-mod-sync/archive/refs/heads/main.zip"
 :: This points to the default Steam path. 
-set "MODS_DIR=%ProgramFiles(x86)%\Steam\steamapps\common\Slay the Spire 2\mods"
+set "MODS_DIR={YOUR_PATH}\Slay the Spire 2\mods"
 
 echo ===============================================
 echo        SLAY THE SPIRE 2 MOD UPDATER
