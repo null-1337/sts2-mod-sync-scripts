@@ -3,7 +3,7 @@
 # --- CONFIGURATION ---
 REPO_ZIP="https://github.com/null-1337/sts2-mod-sync/archive/refs/heads/main.zip"
 # Standard Steam Deck / Linux path
-MODS_DIR="$HOME/.steam/steam/steamapps/common/Slay the Spire 2/mods"
+MODS_DIR="{YOUR_PATH}/Slay the Spire 2/mods"
 
 echo "-----------------------------------------------"
 echo "    STS2 MOD SYNC - LINUX (null-1337)"
