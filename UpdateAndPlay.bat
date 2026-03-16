@@ -63,4 +63,3 @@ rm -rf "temp_extract"
 echo "-----------------------------------------------"
 echo "   SUCCESS! You can now close this window
 echo "-----------------------------------------------"
-exit 0
