@@ -21,6 +21,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command "$tmp = [System.IO.Path]:
 
 echo [+] Sync complete! 
 echo ===============================================
-echo Launching Slay the Spire 2...
-start "" "steam://rungameid/2868840"
 exit
